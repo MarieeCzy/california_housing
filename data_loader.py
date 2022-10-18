@@ -13,4 +13,3 @@ def fetch_housing_data(housing_url=HOUSING_URL, housing_path=HOUSING_PATH):
 
     
 fetch_housing_data()
-
